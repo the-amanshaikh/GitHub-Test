@@ -15,4 +15,5 @@ print (" Notes" \
 "on github after tap on commit yoyu can see previous versions"
 "to know branches - git branch"
 "to make new branch - git checkout -b NewBranchName"
+"to add new branch to github - git push -u origin MyBranch"
 "back to main branch - git checout main")
